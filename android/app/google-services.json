@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978653674653",
+    "project_id": "mp-online-7e52b",
+    "storage_bucket": "mp-online-7e52b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978653674653:android:d925abae5eab5545136874",
+        "android_client_info": {
+          "package_name": "com.mp_online.mp_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhufoZfnS-fzUk8n2uUmuyRA97fopmcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
